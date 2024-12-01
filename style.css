@@ -1,0 +1,33 @@
+body {
+  
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.Services {
+  width: 95%;
+  margin: auto; 
+  text-align: center;
+}
+
+.Service {
+  width: 30%; 
+  margin: 10px ; 
+  float: left; 
+  text-align: center;
+  padding: 10px;
+}
+
+.item {
+ 
+  margin:auto ; 
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+
